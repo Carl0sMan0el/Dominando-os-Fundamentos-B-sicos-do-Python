@@ -1,7 +1,7 @@
 # dio-desafios-fundamentos-python
 Dominando os Fundamentos Básicos do Python 
 
-Seja bem-vindo(a) ao meu repositório de soluções para os desafios do curso "Fundamentos de Python" da DIO!
+Seja bem-vindo(a) ao meu repositório de soluções para os desafios do curso "Fundamentos de Python" da DIO!!
 
 | Nome do Projeto | Descrição | Link | Tecnologias Usadas | Data de Conclusão | Status do Projeto |
 | :---------------: | :---------: | :----: | :------------------: | :-----------------: | :-----------------: |
